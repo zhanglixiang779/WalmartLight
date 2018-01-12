@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalmartLight</string>
+    <string name="log_in">Log In</string>
+    <string name="username">username:</string>
+    <string name="password">password:</string>
+    <string name="password_goes_here">password goes here</string>
+    <string name="username_goes_here">username goes here</string>
+    <string name="search">Search</string>
+    <string name="price">Price:</string>
+    <string name="name">Name:</string>
+</resources>
